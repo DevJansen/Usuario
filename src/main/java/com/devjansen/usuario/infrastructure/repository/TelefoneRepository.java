@@ -1,6 +1,7 @@
 package com.devjansen.usuario.infrastructure.repository;
 
-import com.devjansen.infrastructure.entity.Telefone;
+
+import com.devjansen.usuario.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
